@@ -1,5 +1,7 @@
 # bowlpath-demo
 
+python 3.13.2
+
 ## 仮想環境を作成
 
 python -m venv venv
