@@ -16,8 +16,12 @@ deactivate
 
 ## pytorchのインストール
 
+```shell
 pip install torch torchvision torchaudio --index https://download.pytorch.org/whl/cu118
+```
 
 ## 動作確認
 
+```shell
 python -c "import torch; print(torch.__version__, torch.cuda.is_available())"
+```
