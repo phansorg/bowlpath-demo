@@ -25,3 +25,7 @@ pip install torch torchvision torchaudio --index https://download.pytorch.org/wh
 ```shell
 python -c "import torch; print(torch.__version__, torch.cuda.is_available())"
 ```
+
+## パッケージのインストール
+
+- ultralytics
